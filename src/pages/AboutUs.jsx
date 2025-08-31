@@ -146,6 +146,10 @@ function AboutUs() {
                   Eco-friendly solutions and responsible manufacturing
                 </Typography>
               </div>
+              <div>
+              <Typography variant="h6" color="blue-gray" className="mb-2 font-semibold">
+                  Sustainable Practices
+              </div>
             </div>
           </CardBody>
         </Card>
